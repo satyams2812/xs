@@ -1,4 +1,4 @@
 {
-  "status": "locked",
-  "kill_switch": true
+  "status": "active",
+  "kill_switch": false
 }
